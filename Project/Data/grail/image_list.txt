@@ -1,0 +1,5 @@
+# filename    focal_length
+grail01.jpg  626.497
+grail02.jpg  625.997
+grail03.jpg  627.269
+grail04.jpg  627.555

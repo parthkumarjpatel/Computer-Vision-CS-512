@@ -1,0 +1,4 @@
+# filename    focal_length
+books_1.png  1000
+books_2.png  1000
+books_3.png  1000
